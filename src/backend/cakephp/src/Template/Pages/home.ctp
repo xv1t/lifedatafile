@@ -1,3 +1,6 @@
+<?php 
+$this->layout = false;
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>

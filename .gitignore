@@ -46,10 +46,10 @@ nbproject/*
 # Vue.js
 .DS_Store
 /src/frontend/vuejs/node_modules/
-/src/frontend/vuejs/dist/
+#/src/frontend/vuejs/dist/
 
 node_modules/
-dist/
+#dist/
 npm-debug.log
 yarn-error.log
 
